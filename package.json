@@ -1,6 +1,10 @@
 {
   "name": "toyproject",
+<<<<<<< HEAD
   "version": "1.0.2",
+=======
+  "version": "1.0.1",
+>>>>>>> 6f51b2bef995231a9e33afd55e7848989d3f3900
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
