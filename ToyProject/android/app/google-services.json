@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230599379387",
+    "project_id": "toyproject-2a879",
+    "storage_bucket": "toyproject-2a879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230599379387:android:60e508b7a7fc9cd3e11c9e",
+        "android_client_info": {
+          "package_name": "com.toyproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVu-mQhH3S15dQkvcXbRBzQm73YZmpO3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
